@@ -8,6 +8,6 @@ management:
         include:
         - '*'
 greeting-service:
-  greeting: "cia"
+  greeting: "pronto"
   default-value: "mondo"
     
